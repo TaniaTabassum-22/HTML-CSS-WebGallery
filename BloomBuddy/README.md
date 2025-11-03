@@ -1,4 +1,4 @@
-# 🌱Bloom Buddy
+# 🌱Bloom Buddy — Bring Nature Indoor 
 
 Bloom Buddy is a **single-page web design** built using **HTML** and **CSS**, created to showcase a calming indoor plant collection.  
 It emphasizes minimal aesthetics, green tones, and clean typography — providing users with a refreshing browsing experience.
